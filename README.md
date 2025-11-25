@@ -57,7 +57,8 @@ SELECT
 FROM sales
 GROUP BY product;
 
-📊 Output
+
+ Output
 ✔ Printed Output 
      product  total_qty   revenue
 0     Laptop          8  480000.0
